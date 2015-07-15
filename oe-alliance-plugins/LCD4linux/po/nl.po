@@ -1,0 +1,1214 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: LCD4linux\n"
+"Language: nl\n"
+
+msgid "%"
+msgstr "%"
+
+msgid "% + BER"
+msgstr "% + BER"
+
+msgid "% + Load@1min"
+msgstr "% + Load@1min"
+
+msgid "% + Load@5min"
+msgstr "% + Load@5min"
+
+msgid "%d Mails  %d New  %s"
+msgstr "%d Mail  %d Nieuw  %s"
+
+msgid "-  Type"
+msgstr "-  Type"
+
+msgid "- Alignment"
+msgstr "- Uitlijning"
+
+msgid "- Analog Clock"
+msgstr "- Analoge klok"
+
+msgid "- Background Color"
+msgstr "- Achtergrond kleur"
+
+msgid "- Background/Transparency"
+msgstr "- Achtergrond/Tranparantie"
+
+msgid "- Backlight Off [disable set Off=On]"
+msgstr "- Achtergrondverlichting Uit"
+
+msgid "- Backlight On"
+msgstr "- Achtergrondverlichting Aan"
+
+msgid "- Backlight Weekend Off [disable set Off=On]"
+msgstr "- Achtergrondverlichting weekeinde uit"
+
+msgid "- Backlight Weekend On"
+msgstr "- Achtergrondverlichting  Weekeinde Aan"
+
+msgid "- CPU"
+msgstr "- CPU"
+
+msgid "- Color"
+msgstr "- Kleur"
+
+msgid "- Extra Zoom"
+msgstr "- Extra Zoom"
+
+msgid "- File [ok]>"
+msgstr "- Bestand [ok]>"
+
+msgid "- File or Path [ok]>"
+msgstr "- Bestand of pad [ok]>"
+
+msgid "- Font"
+msgstr "- Lettertype"
+
+msgid "- Font Size"
+msgstr "- Letter grootte"
+
+msgid "- Full Screen"
+msgstr "- Vol scherm"
+
+msgid "- Gradient"
+msgstr "- Gradiënt"
+
+msgid "- HTTP Height"
+msgstr "- HTTP Hoogte"
+
+msgid "- HTTP Width"
+msgstr "- HTTP Breedte"
+
+msgid "- LCD 1 Background Color"
+msgstr "- LCD 1 Achtergrond kleur"
+
+msgid "- LCD 1 Background-Picture [ok]>"
+msgstr "- LCD 1 Achtergrond-Foto [ok]>"
+
+msgid "- LCD 1 Rotate"
+msgstr "- LCD 1 Roteer"
+
+msgid "- LCD 2 Background Color"
+msgstr "- LCD 2 Achtergrond kleur"
+
+msgid "- LCD 2 Background-Picture [ok]>"
+msgstr "- LCD 2 Achtergrond-Foto [ok]>"
+
+msgid "- LCD 2 Rotate"
+msgstr "- LCD 2 Roteer"
+
+msgid "- LCD 3 Background Color"
+msgstr "- LCD 3 Achtergrond kleur"
+
+msgid "- LCD 3 Background-Picture [ok]>"
+msgstr "- LCD 3 Achtergrond-Foto [ok]>"
+
+msgid "- LCD 3 Rotate"
+msgstr "- LCD 3 Roteer"
+
+msgid "- Layout"
+msgstr "- Lay-out"
+
+msgid "- Lines"
+msgstr "- Lijnen"
+
+msgid "- OSD Size"
+msgstr "- OSD Maat"
+
+msgid "- Online Name:Address"
+msgstr "- Online Naam:Adres"
+
+msgid "- Picon Cache Path [ok]>"
+msgstr "- Picon Cache Pad [ok]>"
+
+msgid "- Picon Path 2 [ok]>"
+msgstr "- Picon Pad 2 [ok]>"
+
+msgid "- Picon Path [ok]>"
+msgstr "- Picon Pad [ok]>"
+
+msgid "- Picon Size"
+msgstr "- Picon Grootte"
+
+msgid "- Picture Alignment"
+msgstr "- Foto uitlijning"
+
+msgid "- Picture Position"
+msgstr "- Picture Positie"
+
+msgid "- Picture Size"
+msgstr "- Foto grootte"
+
+msgid "- Position"
+msgstr "- Positie"
+
+msgid "- Position x"
+msgstr "- Positie x"
+
+msgid "- Position y"
+msgstr "- Positie y"
+
+msgid "- Quick Update"
+msgstr "- Snell update"
+
+msgid "- Rain Color"
+msgstr "- Kleur regen"
+
+msgid "- Rain Color 2"
+msgstr "- Kleur regen 2"
+
+msgid "- Rain Zoom"
+msgstr "- Regen Zoom"
+
+msgid "- Rain use Color 2 from"
+msgstr "- Regen gebruik kleur 2 van"
+
+msgid "- Screen 2 Changing Time"
+msgstr "- Scherm 2 verandert tijd"
+
+msgid "- Screen 3 Changing Time"
+msgstr "- Scherm 3 verandert tijd"
+
+msgid "- Screen 4 Changing Time"
+msgstr "- Scherm 4 verandert tijd"
+
+msgid "- Screen 5 Changing Time"
+msgstr "- Scherm 5 verandert tijd"
+
+msgid "- Screen 6 Changing Time"
+msgstr "- Scherm 6 verandert tijd"
+
+msgid "- Screen 7 Changing Time"
+msgstr "- Scherm 7 verandert tijd"
+
+msgid "- Screen 8 Changing Time"
+msgstr "- Scherm 8 verandert tijd"
+
+msgid "- Screen 9 Changing Time"
+msgstr "- Scherm 9 verandert tijd"
+
+msgid "- Screens used for Changing"
+msgstr "- Schermen gebruikt voor veranderen"
+
+msgid "- Search Path [ok]>"
+msgstr "- Zoekpad [ok]>"
+
+msgid "- Sensors"
+msgstr "- Sensors"
+
+msgid "- Show State"
+msgstr "- Toon status"
+
+msgid "- Show in Mode"
+msgstr "- Toon in mode"
+
+msgid "- Size"
+msgstr "-Grootte"
+
+msgid "- Size max Height"
+msgstr "- Maximale hoogte"
+
+msgid "- Size x"
+msgstr "- Waarde X"
+
+msgid "- Size y"
+msgstr "- Waarde Y"
+
+msgid "- Spacing"
+msgstr "- Spatie"
+
+msgid "- Split Screen"
+msgstr "- Gedeeld scherm"
+
+msgid "- Text Size"
+msgstr "- Tekst grootte"
+
+msgid "- Transparency"
+msgstr "- Transparantie"
+
+msgid "- Tunerinfo"
+msgstr "- Tunerinfo"
+
+msgid "- Type"
+msgstr "- Type"
+
+msgid "- URL"
+msgstr "- URL"
+
+msgid "- Weather Type"
+msgstr "- Weertype"
+
+msgid "- Zoom"
+msgstr "- Zoom"
+
+msgid "- extra Info"
+msgstr "- extra info"
+
+msgid "- max Width"
+msgstr "- Maximale breedte"
+
+msgid "- maximum Lines"
+msgstr "- Maximum aantal lijnen"
+
+msgid "- only active Tuner"
+msgstr "- Alleen actieve tuner"
+
+msgid "- which LCD"
+msgstr "- Welk LCD"
+
+msgid "0"
+msgstr "0"
+
+msgid "0.5"
+msgstr "0,5"
+
+msgid "180"
+msgstr "180"
+
+msgid "1-2"
+msgstr "1-2"
+
+msgid "1-3"
+msgstr "1-3"
+
+msgid "1-4"
+msgstr "1-4"
+
+msgid "1-5"
+msgstr "1-5"
+
+msgid "10%"
+msgstr "10%"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "10min"
+msgstr "10min"
+
+msgid "10s"
+msgstr "10s"
+
+msgid "132x64"
+msgstr "132x64"
+
+msgid "15%"
+msgstr "15%"
+
+msgid "15min"
+msgstr "15min"
+
+msgid "15s"
+msgstr "15s"
+
+msgid "1min"
+msgstr "1min"
+
+msgid "270"
+msgstr "270"
+
+msgid "2 x InfoKey"
+msgstr "2 x Info-toets"
+
+msgid "2%"
+msgstr "2%"
+
+msgid "20%"
+msgstr "20%"
+
+msgid "20min"
+msgstr "20min"
+
+msgid "20s"
+msgstr "20s"
+
+msgid "220x176"
+msgstr "220x176"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "255x64"
+msgstr "255x64"
+
+msgid "2min"
+msgstr "2min"
+
+msgid "3%"
+msgstr "3%"
+
+msgid "30%"
+msgstr "30%"
+
+msgid "30min"
+msgstr "30min"
+
+msgid "30s"
+msgstr "30s"
+
+msgid "32bit - color"
+msgstr "32bit - kleur"
+
+msgid "35%"
+msgstr "35%"
+
+msgid "3min"
+msgstr "3min"
+
+msgid "40%"
+msgstr "40%"
+
+msgid "400x240"
+msgstr "400x240"
+
+msgid "40s"
+msgstr "40s"
+
+msgid "45%"
+msgstr "45%"
+
+msgid "4min"
+msgstr "4min"
+
+msgid "5%"
+msgstr "5%"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "50s"
+msgstr "50s"
+
+msgid "55%"
+msgstr "55%"
+
+msgid "5min"
+msgstr "5min"
+
+msgid "5s"
+msgstr "5s"
+
+msgid "60%"
+msgstr "60%"
+
+msgid "60min"
+msgstr "60min"
+
+msgid "65%"
+msgstr "65%"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "80%"
+msgstr "80%"
+
+msgid "85%"
+msgstr "85%"
+
+msgid "90%"
+msgstr "90%"
+
+msgid "95%"
+msgstr "95%"
+
+msgid "96x64"
+msgstr "96x64"
+
+msgid "Active Screen"
+msgstr "Actieve scherm"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Always All"
+msgstr "Altijd alle"
+
+msgid "Always New"
+msgstr "Altijd nieuw"
+
+msgid "Analog"
+msgstr "Analoog"
+
+msgid "Analog+Date"
+msgstr "Analoog+Datum"
+
+msgid "Analog+Date+Weekday"
+msgstr "Analoog+Datum+Dag"
+
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgid "C"
+msgstr "C"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Corner"
+msgstr "Hoek"
+
+msgid "Crashlog"
+msgstr "Crashlog"
+
+msgid "Current"
+msgstr "Huidige"
+
+msgid "Current Temperature"
+msgstr "Huidige temperatuur"
+
+msgid "Current Temperature (+C)"
+msgstr "Huidige temperatuur (+C)"
+
+msgid "Current Temperature (-C)"
+msgstr "Huidige temperatuur (-C)"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date+Time"
+msgstr "Datum+Tijd"
+
+msgid "Date+Time+Weekday"
+msgstr "Datum+Tijd+ Dag"
+
+msgid "Dates"
+msgstr "Data"
+
+msgid "Dates 1 Line"
+msgstr "Data 1 regel"
+
+msgid "Dates 3 Lines"
+msgstr "Data 3 regels"
+
+msgid "Dates 5 Lines"
+msgstr "Data 5 regels"
+
+msgid "Dates 9 Lines"
+msgstr "Data 9 regels"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Delete File?"
+msgstr "Verwijder bestand?"
+
+msgid "Font"
+msgstr "Lettertype"
+
+msgid "Font 1 [ok]>"
+msgstr "Lettertype 1 [ok]>"
+
+msgid "Font 2 [ok]>"
+msgstr "Lettertype 2 [ok]>"
+
+msgid "Font 3 [ok]>"
+msgstr "Lettertype 3 [ok]>"
+
+msgid "Font global [ok]>"
+msgstr "Lettertype globaal [ok]>"
+
+msgid "Frame"
+msgstr "Frame"
+
+msgid "FritzCall"
+msgstr "FritzCall"
+
+msgid "Full Moon"
+msgstr "Volle maan"
+
+msgid "Global"
+msgstr "Globaal"
+
+msgid "HDD"
+msgstr "HDD"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "IMAP-SSL"
+msgstr "IMAP-SSL"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Informations"
+msgstr "Informatie"
+
+msgid "Infos"
+msgstr "Infos"
+
+msgid "Javascript"
+msgstr "Javascript"
+
+msgid "LCD 1"
+msgstr "LCD 1"
+
+msgid "LCD 1 Type"
+msgstr "LCD 1 Type"
+
+msgid "LCD 1+2"
+msgstr "LCD 1+2"
+
+msgid "LCD 1+2+3"
+msgstr "LCD 1+2+3"
+
+msgid "LCD 1+3"
+msgstr "LCD 1+3"
+
+msgid "LCD 2"
+msgstr "LCD 2"
+
+msgid "LCD 2 Type"
+msgstr "LCD 2 Type"
+
+msgid "LCD 2+3"
+msgstr "LCD 2+3"
+
+msgid "LCD 3"
+msgstr "LCD 3"
+
+msgid "LCD 3 Type"
+msgstr "LCD 3 Type"
+
+msgid "LCD Display"
+msgstr "LCD Display"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "Mail 1 Password"
+msgstr "Mail 1 Wachtwoord"
+
+msgid "Mail 1 Server"
+msgstr "Mail 1 Server"
+
+msgid "Mail 2 Server"
+msgstr "Mail 2 Server"
+
+msgid "Mail 3 Server"
+msgstr "Mail 3 Server"
+
+msgid "Mail 4 Server"
+msgstr "Mail 4 Server"
+
+msgid "Mail 5 Server"
+msgstr "Mail 5 Server"
+
+msgid "Mail Poll Interval"
+msgstr "Mail Poll Interval"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Meteo URL"
+msgstr "Meteo URL"
+
+msgid "Mini-EPG"
+msgstr "Mini-EPG"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Normal (5s)"
+msgstr "Normaal (5s)"
+
+msgid "OSD"
+msgstr "OSD"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Online [Ping]"
+msgstr "Online [Ping]"
+
+msgid "Online+Offline"
+msgstr "Online+Offline"
+
+msgid "Picon"
+msgstr "Picon"
+
+msgid "Picon 2"
+msgstr "Picon 2"
+
+msgid "Pop3"
+msgstr "Pop3"
+
+msgid "Pop3-SSL"
+msgstr "Pop3-SSL"
+
+msgid "Provider"
+msgstr "Provider"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Radio+Media"
+msgstr "Radio+Media"
+
+msgid "Samsung SPF-105P 1024x600"
+msgstr "Samsung SPF-105P 1024x600"
+
+msgid "Samsung SPF-107H 1024x600"
+msgstr "Samsung SPF-107H 1024x600"
+
+msgid "Samsung SPF-107H old 1024x600"
+msgstr "Samsung SPF-107H old 1024x600"
+
+msgid "Samsung SPF-700T 800x600"
+msgstr "Samsung SPF-700T 800x600"
+
+msgid "Samsung SPF-72H 800x480"
+msgstr "Samsung SPF-72H 800x480"
+
+msgid "Samsung SPF-75H/76H 800x480"
+msgstr "Samsung SPF-75H/76H 800x480"
+
+msgid "Samsung SPF-83H 800x600"
+msgstr "Samsung SPF-83H 800x600"
+
+msgid "Samsung SPF-85H/86H 800x600"
+msgstr "Samsung SPF-85H/86H 800x600"
+
+msgid "Samsung SPF-85P/86P 800x600"
+msgstr "Samsung SPF-85P/86P 800x600"
+
+msgid "Samsung SPF-87H 800x480"
+msgstr "Samsung SPF-87H 800x480"
+
+msgid "Samsung SPF-87H old 800x480"
+msgstr "Samsung SPF-87H old 800x480"
+
+msgid "Satellite"
+msgstr "Satelliet"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Screen"
+msgstr "Scherm"
+
+msgid "Screen 1"
+msgstr "Scherm 1"
+
+msgid "Screen 1 Changing Time"
+msgstr "Scherm 1 Verander tijd"
+
+msgid "Screen 1+2"
+msgstr "Scherm 1+2"
+
+msgid "Screen 1+2+3"
+msgstr "Scherm 1+2+3"
+
+msgid "Screen 1+2+3+4"
+msgstr "Scherm 1+2+3+4"
+
+msgid "Screen 1+2+4"
+msgstr "Scherm 1+2+4"
+
+msgid "Screen 1+3"
+msgstr "Scherm 1+3"
+
+msgid "Screen 1+3+4"
+msgstr "Scherm 1+3+4"
+
+msgid "Screen 1+3+5+7+9"
+msgstr "Scherm 1+3+5+7+9"
+
+msgid "Screen 1+4"
+msgstr "Scherm 1+4"
+
+msgid "Screen 1-2"
+msgstr "Scherm 1-2"
+
+msgid "Screen 1-3"
+msgstr "Scherm1-3"
+
+msgid "Screen 1-4"
+msgstr "Scherm 1-4"
+
+msgid "Screen 1-5"
+msgstr "Scherm 1-5"
+
+msgid "Screen 1-6"
+msgstr "Scherm 1-6"
+
+msgid "Screen 1-7"
+msgstr "Scherm 1-7"
+
+msgid "Screen 1-8"
+msgstr "Scherm 1-8"
+
+msgid "Screen 1-9"
+msgstr "Scherm 1-9"
+
+msgid "Screen 2"
+msgstr "Scherm 2"
+
+msgid "Screen 2+3"
+msgstr "Scherm 2+3"
+
+msgid "Screen 2+3+4"
+msgstr "Scherm 2+3+4"
+
+msgid "Screen 2+4"
+msgstr "Scherm 2+4"
+
+msgid "Screen 2+4+6+8"
+msgstr "Scherm 2+4+6+8"
+
+msgid "Screen 3"
+msgstr "Scherm 3"
+
+msgid "Screen 3+4"
+msgstr "Scherm 3+4"
+
+msgid "Screen 4"
+msgstr "Scherm 4"
+
+msgid "Screen 5"
+msgstr "Scherm 5"
+
+msgid "Screen 5-9"
+msgstr "Scherm 5-9"
+
+msgid "Screen 6"
+msgstr "Scherm 6"
+
+msgid "Screen 7"
+msgstr "Scherm 7"
+
+msgid "Screen 8"
+msgstr "Scherm 8"
+
+msgid "Screen 9"
+msgstr "Scherm9"
+
+msgid "Screens used for Changing"
+msgstr "Schermen gebruikt voor veranderen"
+
+msgid "Short"
+msgstr "Kort"
+
+msgid "Short (Extended)"
+msgstr "Kort (verlengd)"
+
+msgid "Short+Extended"
+msgstr "Kort+verlengd"
+
+msgid "Show"
+msgstr "Toon"
+
+msgid "Show Cover"
+msgstr "Toon Cover"
+
+msgid "Show Crash Corner"
+msgstr "Toon Crash hoek"
+
+msgid "Show HTTP Text"
+msgstr "Toon HTTP tekst"
+
+msgid "Show Picture"
+msgstr "Toon foto"
+
+msgid "Show Picture 2"
+msgstr "Toon foto 2"
+
+msgid "Show Picture 3"
+msgstr "Toon foto 3"
+
+msgid "Show Picture 4"
+msgstr "Toon foto 4"
+
+msgid "Show Textfile"
+msgstr "Toon tekstbestand"
+
+msgid "Show Textfile 2"
+msgstr "Toon tekstbestand 2"
+
+msgid "Show Textfile 3"
+msgstr "Toon tekstbestand 3"
+
+msgid "Show ecm.info"
+msgstr "Toon  ecm.info"
+
+msgid "Show oscam.lcd"
+msgstr "Toon oscam.lcd"
+
+msgid "Signal Quality Bar"
+msgstr "Signaalkwaliteit balk"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Storage-Devices"
+msgstr "Opslag media"
+
+msgid "Storage-Devices: Force Read"
+msgstr "Opslag media: force read"
+
+msgid "Sunrise"
+msgstr "Zonsopkomst"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "TV+OSD"
+msgstr "TV+OSD"
+
+msgid "TV+Radio"
+msgstr "TV+Radio"
+
+msgid "TV+Radio+Media"
+msgstr "TV+Radio+Media"
+
+msgid "Temperature"
+msgstr "Temperatuur"
+
+msgid "Temperature+Co2"
+msgstr "Temperatuur+Co2"
+
+msgid "Temperature+Co2+Pressure"
+msgstr "Temperatuur+Co2+Druk"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Time+Duration+Info"
+msgstr "Tijd+Duur+Info"
+
+msgid "Time+Info"
+msgstr "Tijd+Info"
+
+msgid "Time+Length+Info"
+msgstr "Tijd+Lengte+Info"
+
+msgid "Time+Weekday"
+msgstr "Tijd+Dag"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Tuner Color"
+msgstr "Tuner kleur"
+
+msgid "Tuner Color Active"
+msgstr "Tuner kleur actief"
+
+msgid "Tuner Color On"
+msgstr "Tuner kleur aan"
+
+msgid "Underline"
+msgstr "Onderlijnen"
+
+msgid "Underline 2"
+msgstr "Onderlijnen 2"
+
+msgid "Used Tuner"
+msgstr "Gebruikte tuner"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "WWW Converter Poll Interval"
+msgstr "WWW Converter Poll Interval"
+
+msgid "WWW-Internet Converter"
+msgstr "WWW-Internet Converter"
+
+msgid "Weather"
+msgstr "Weer"
+
+msgid "Weather 2"
+msgstr "Weer 2"
+
+msgid "Weather City"
+msgstr "Weer stad"
+
+msgid "Weather City 2"
+msgstr "Weer stad 2"
+
+msgid "Weather Extra Infos"
+msgstr "Weer Extra Info"
+
+msgid "Weather High Temperature Color"
+msgstr "Weer hoge temperatuur kleur"
+
+msgid "Weather Lines"
+msgstr "Weer regels"
+
+msgid "Weather Low Temperature Color"
+msgstr "Weer lage temperatuur kleur"
+
+msgid "Weather Rain Chance"
+msgstr "Weer regenkans"
+
+msgid "Weather Transparency"
+msgstr "Weer transparantie"
+
+msgid "Weather-Icon Zoom"
+msgstr "Weer-ikoon zoom"
+
+msgid "Weather-Icon-Path [ok]>"
+msgstr "Weer-ikoon-Pad [ok]>"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "alphabetic"
+msgstr "alfabetisch"
+
+msgid "always"
+msgstr "altijd"
+
+msgid "aquamarine"
+msgstr "zeegroen"
+
+msgid "better/slow"
+msgstr "beter/langzaam"
+
+msgid "black"
+msgstr "zwart"
+
+msgid "blue"
+msgstr "blauw"
+
+msgid "blueviolet"
+msgstr "blauw paars"
+
+msgid "brown"
+msgstr "bruin"
+
+msgid "center"
+msgstr "midden"
+
+msgid "copy to Idle"
+msgstr "kopieer naar inactief "
+
+msgid "copy to Media"
+msgstr "Kopieer naar Media"
+
+msgid "copy to On"
+msgstr "Kopieer naar Aan"
+
+msgid "cornflowerblue"
+msgstr "korenbloem blauw"
+
+msgid "cyan"
+msgstr "groenblauw"
+
+msgid "darkblue"
+msgstr "donker blauw"
+
+msgid "darkgreen"
+msgstr "donker groen"
+
+msgid "darkorange"
+msgstr "donker oranje"
+
+msgid "darkred"
+msgstr "donker rood"
+
+msgid "db"
+msgstr "db"
+
+msgid "db + %"
+msgstr "db + %"
+
+msgid "db + % + BER"
+msgstr "db + % + BER"
+
+msgid "db + BER"
+msgstr "db + BER"
+
+msgid "deeppink"
+msgstr "diep paars"
+
+msgid "deleted"
+msgstr "verwijderd"
+
+msgid "disabled"
+msgstr "uitgeschakeld"
+
+msgid "full Screen"
+msgstr "vol scherm"
+
+msgid "gold"
+msgstr "goud"
+
+msgid "gray"
+msgstr "grijs"
+
+msgid "green"
+msgstr "groen"
+
+msgid "greenyellow"
+msgstr "groengeel"
+
+msgid "half left"
+msgstr "half links"
+
+msgid "half right"
+msgstr "half rechts"
+
+msgid "horizontally"
+msgstr "horizontaal"
+
+msgid "lawngreen"
+msgstr "grasgroen"
+
+msgid "left"
+msgstr "links"
+
+msgid "lightblue"
+msgstr "licht blauw"
+
+msgid "lightgreen"
+msgstr "licht groen"
+
+msgid "lime"
+msgstr "limoen"
+
+msgid "low/fast (Picture only)"
+msgstr "laag/langzaam (alleen foto)"
+
+msgid "low/fast (all)"
+msgstr "laag/snel (alle)"
+
+msgid "magenta"
+msgstr "magenta"
+
+msgid "no"
+msgstr "Nee"
+
+msgid "no Calendar"
+msgstr "Geen kalender"
+
+msgid "no Dates"
+msgstr "Geen datums"
+
+msgid "no LCD1 Picture-File"
+msgstr "geen LCD1 foto bestand"
+
+msgid "no LCD2 Picture-File"
+msgstr "geen LCD2 foto bestand"
+
+msgid "no LCD3 Picture-File"
+msgstr "geen LCD3 foto bestand"
+
+msgid "no Netatmo-Plugin installed"
+msgstr "geen Netatmo-Plugin geïnstalleerd"
+
+msgid "no Timer"
+msgstr "geen timer"
+
+msgid "normal (full)"
+msgstr "normaal (vol)"
+
+msgid "off"
+msgstr "uit"
+
+msgid "olive"
+msgstr "olijf"
+
+msgid "on"
+msgstr "aan"
+
+msgid "only Picture 1024x600"
+msgstr "alleen foto1024x600"
+
+msgid "only Picture 320x240"
+msgstr "alleen foto 320x240"
+
+msgid "only Picture 800x480"
+msgstr "alleen foto 800x480"
+
+msgid "only Picture 800x600"
+msgstr "alleen foto 800x600"
+
+msgid "only Picture Custom Size"
+msgstr "alleen foto aangepaste grootte"
+
+msgid "only Progress Bar"
+msgstr "alleen voortgangsbalk"
+
+msgid "orange"
+msgstr "oranje"
+
+msgid "orangered"
+msgstr "oranjerood"
+
+msgid "other"
+msgstr "anders"
+
+msgid "random"
+msgstr "willekeurig"
+
+msgid "red"
+msgstr "rood"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "rpm"
+msgstr "omw/min"
+
+msgid "rpm/2"
+msgstr "omw/min/2"
+
+msgid "sandybrown"
+msgstr "zandbruin"
+
+msgid "silver"
+msgstr "zilver"
+
+msgid "slategray"
+msgstr "leigrijs"
+
+msgid "tomato"
+msgstr "tomaat"
+
+msgid "vertically"
+msgstr "vertikaal"
+
+msgid "violet"
+msgstr "paars"
+
+msgid "white"
+msgstr "wit"
+
+msgid "yellow"
+msgstr "Geel"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "yes (32bit)"
+msgstr "ja (32bit)"
+
+msgid "yes + %"
+msgstr "ja + %"
+
+msgid "yes +25%"
+msgstr "ja +25%"
+
+msgid "yes except records"
+msgstr "ja behalve opnames"
+
+msgid "yes, extended"
+msgstr "ja, verlengd"
+
+msgid "yes, long"
+msgstr "ja, lang"
+
+msgid "yes, short"
+msgstr "ja, kort"

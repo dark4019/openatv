@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2 3.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-29 16:40+0100\n"
+"PO-Revision-Date: 2012-08-25 15:39+0200\n"
+"Last-Translator: WadimArt <WadimArt@GiClub.tv>\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d / 100"
+msgstr "%d / 100"
+
+msgid "Can't cancel during upgrade!!"
+msgstr "Нельзя отменить во время обновления!"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Download"
+msgstr "Загрузить"
+
+msgid "Downloaded "
+msgstr "Загруженный"
+
+msgid "Downloading..."
+msgstr "Загружается..."
+
+msgid ""
+"Error[%d] : %s.\n"
+"Press OK to exit."
+msgstr ""
+"Ошибка[%d] : %s.\n"
+"Нажмите ОК для выхода"
+
+msgid "FPGA Upgrade"
+msgstr "Модернизация FPGA"
+
+msgid "File not found"
+msgstr "Файл не найден"
+
+msgid "Status : 0%"
+msgstr "Состояние: 0%"
+
+msgid "Succeed"
+msgstr "Успешно"
+
+msgid "Upgrade"
+msgstr "Модернизация"
